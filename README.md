@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### My Profile
 <hr>
-this is Bio
+Hello, I'm Ihzam Chaidir Aldy.
 <br>
 
 <!--
