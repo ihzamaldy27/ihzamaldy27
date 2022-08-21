@@ -1,7 +1,11 @@
 ### Hi there 👋
 #### My Profile
 <hr>
-##### this is Bio
+this is Bio
+<br>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZEVXbObFQZ3JLcXt?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
 <!--
 **ihzamaldy27/ihzamaldy27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
