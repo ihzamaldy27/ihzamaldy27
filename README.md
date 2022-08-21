@@ -1,6 +1,7 @@
 ### Hi there 👋
-## My Profile
-
+#### My Profile
+<hr>
+##### this is Bio
 <!--
 **ihzamaldy27/ihzamaldy27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
