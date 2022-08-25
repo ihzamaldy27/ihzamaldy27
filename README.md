@@ -3,7 +3,7 @@
 <hr>
 Hello, I'm Ihzam Chaidir Aldy.
 <br>
-🛠 Under Construction 🏗
+🛠 Under Construction 🏗 <br>
 ✍ still writing...
 <!--
 **ihzamaldy27/ihzamaldy27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
