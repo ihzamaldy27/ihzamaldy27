@@ -1,13 +1,15 @@
-### Hi there 👋
-#### My Profile
+<!--### Hi there 👋
+#### My Profile -->
 <hr>
 Hello, I'm Ihzam Chaidir Aldy.
 <br>
 🛠 Under Construction 🏗 <br>
 ✍ still writing...
 <hr>
-### another site
+<h3>Another site</h3>
 
+<a href="https://ihzamaldy-27.itch.io/">Itch.io</a><br>
+<a href="https://www.linkedin.com/in/ihzam-chaidir-aldy-007aa4113/">LinkedIn</a>
 <!--
 **ihzamaldy27/ihzamaldy27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
