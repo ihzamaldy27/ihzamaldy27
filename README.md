@@ -4,7 +4,8 @@
 Hello, I'm Ihzam Chaidir Aldy.
 <br>
 [🛠 Under Construction 🏗 <br>
-✍ still writing...](https://ihzamaldy27.github.io/)
+✍ [still writing...]<br>
+https://ihzamaldy27.github.io/
 <hr>
 <h3>Another site</h3>
 
